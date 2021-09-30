@@ -1,8 +1,10 @@
 # documents
 This repository contains documents regards Qube Platform project.
 - Whitepaper
-- Disclaimer
-- Privacy Policy
+- QUBE COOKIES POLICY
+- QUBE PRIVACY POLICY
+- QUBE TERMS OF SERVICE
+- QUBE DISCLAIMER
 
 The Platform contains:
 1. DEX Module:
@@ -19,4 +21,4 @@ The Platform contains:
  
  URLs:
  1. Qube Platform Application https://qubecs.com/
- 2. Qube Landing Page https://theqube.cc/
+ 2. Qube web site https://theqube.cc/
