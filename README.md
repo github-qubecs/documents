@@ -5,6 +5,7 @@ This repository contains documents regards Qube Platform project.
 - QUBE PRIVACY POLICY
 - QUBE TERMS OF SERVICE
 - QUBE DISCLAIMER
+- Qube BSC-ERC Audit 11997780.pdf - smart-contracts audit report
 
 The Platform contains:
 * DEX Module:
